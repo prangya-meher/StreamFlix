@@ -21,3 +21,10 @@ The Netflix Clone Project is a front-end web development exercise aimed at repli
 2. Open the `index.html` file in a web browser to view the Netflix clone project.
 3. Explore the homepage layout, navigate through different sections, and interact with the static content.
 
+## Contributing
+
+Contributions to the Netflix Clone Project are welcome! If you'd like to contribute, please follow these guidelines:
+
+1. Fork the repository and create a new branch for your feature or fix.
+2. Make your changes, ensuring adherence to coding standards and best practices.
+3. Submit a pull request with a detailed description of your changes and any relevant information.
