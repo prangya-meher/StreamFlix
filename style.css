@@ -58,12 +58,10 @@ nav .items {
     position: relative;
     z-index: 1;
     color: white;
-    gap: 25px;
+    gap: 23px;
     justify-content: center;
     margin: auto;
-    padding: 30px;
-
-
+    padding: 34px;
 }
 
 .items1 .box2 {
@@ -86,7 +84,7 @@ nav .items {
 
 .items1 .box4 {
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 400;
     text-align: center;
 }
@@ -325,6 +323,7 @@ footer .footer1 {
 
 
 
+
 @media only screen and (max-width:1300px) {
     nav {
         max-width: 90vw;
@@ -336,7 +335,7 @@ footer .footer1 {
     }
 
     .items1 .box3 {
-        font-size: 15px;
+        font-size: 20px;
     }
 
     .items .box4 {
