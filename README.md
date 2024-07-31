@@ -1,9 +1,9 @@
 # StreamFlix
 This project is  a clone of the popular streaming services Netflix, created as a learning exercise for web development.
 
-# Netflix Clone Project
+# Netflix UI Clone Project
 
-The Netflix Clone Project is a front-end web development exercise aimed at replicating the user interface and design of the popular streaming service, Netflix. It serves as a learning opportunity for practicing HTML and CSS skills while recreating a familiar and widely recognized application interface.
+The Netflix UI Clone Project is a front-end web development exercise aimed at replicating the user interface and design of the popular streaming service, Netflix. It serves as a learning opportunity for practicing HTML and CSS skills while recreating a familiar and widely recognized application interface.
 
 
 ## Steps to create Netflix Clone Project
